@@ -153,35 +153,37 @@ img {
     /***************** SOPORTE PAGE *****************************/
     /************************************************************/
 
-
 .title-soporte {
+    display: flex;
+    text-align: end;
     padding: 2rem;
-    margin: 50px 520px 50px 620px;
     }
+
 .soporte-text {
     display: flex;
     justify-content: center;
-    margin: 20px 20px 0px 20px ;
+   padding: 2rem;
     font-size: 16px;
     text-align: center;
     }
 
 .soporte-title {
     text-align: center;
-    font-size: 22px;
+    font-size: 10px;
     padding: 2rem;
-    
     }
+    
 .soporte-class {
     display: flex;
-    margin: 90px 30px 20px 20px ;
+    padding: 1rem;
     background-color: rgb(242, 234, 234);
     border-radius: 15px;
     box-shadow: 25px 25px 25px 25px rgba(15, 15, 15, .5);
+    font-size: small;
     }
 
 .parrafo-soporte {
-   margin: 40px 20px 20px 20px ;
+   padding: 2rem;
    text-align:center;
    }
     
