@@ -1,0 +1,23 @@
+/************************************/
+/************ANIMACION CHICLE********/
+/************************************/
+.hero:hover {
+    animation: chicle 1s 1;
+        }
+@keyframes chicle {
+    30% {
+    transform: scaleX(1.2) scaleY(0.7);
+        }
+    40% {
+    transform: scaleX(0.7) scaleY(1.2);
+        }
+    60% {
+    transform: scaleX(1.1) scaleY(0.8);
+        }
+    }
+ /******************** CHICLE END *******************/
+        
+
+.rotate:hover {
+    transform: rotate(45deg);
+    }
