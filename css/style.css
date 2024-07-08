@@ -180,4 +180,16 @@ img {
 .parrafo-soporte {
   padding: 2rem;
   text-align: center;
+}
+
+/******************************************************************/
+/******************Contacto Page***********************************/
+/******************************************************************/
+.contacto-title {
+  padding: 2rem;
+  text-align: center;
+}
+
+.input-group {
+  background-color: rgb(242, 234, 234);
 }/*# sourceMappingURL=style.css.map */
