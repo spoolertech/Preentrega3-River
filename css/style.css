@@ -2,8 +2,6 @@
 
  @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
-/* Hasta aca sin errores CON Inicio - Nosotros - Servicios y Fotos Ultimo Trabajado DOM 7/7 22:12hs*/
-
 * {
     margin: 0;
     padding: 0;
@@ -162,7 +160,6 @@ img {
 
 
 .title-soporte {
-   /* text-align: left;*/
     padding: 2rem;
     
     }
